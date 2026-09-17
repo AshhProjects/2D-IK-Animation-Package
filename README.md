@@ -21,7 +21,7 @@ This project explores a lower-friction alternative: a pre-built stick-figure ske
 
 The project focuses on improving the accessibility of existing animation techniques rather than introducing a new IK algorithm.
 
-![Menu](docs/menu.gif)
+![Menu](docs/menu.png)
 
 ## Features
 
