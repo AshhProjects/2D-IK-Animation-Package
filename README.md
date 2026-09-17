@@ -21,6 +21,8 @@ This project explores a lower-friction alternative: a pre-built stick-figure ske
 
 The project focuses on improving the accessibility of existing animation techniques rather than introducing a new IK algorithm.
 
+![Menu](docs/menu.gif)
+
 ## Features
 
 * **IK posing**: drag visible hand and foot end-effectors; the FABRIK solver adjusts the corresponding two-segment limb
