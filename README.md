@@ -152,6 +152,7 @@ The [full project report](docs/Report.pdf) covers the background research, syste
 
 * Aristidou, A. and Lasenby, J. (2011). *FABRIK: A Fast, Iterative Solver for the Inverse Kinematics Problem*. Graphical Models, 73(5). [DOI](https://doi.org/10.1016/j.gmod.2011.05.003)
 * `GifSequenceWriter` was adapted from [Elliot Kroo’s Stack Overflow implementation](https://stackoverflow.com/questions/16649620/is-there-a-way-to-create-one-gif-image-from-multiple-images-in-java/16649681), with attribution and licensing information preserved in the source code.
+* The application window and scene-management structure was adapted from a JavaFX project template used in earlier university coursework.
 * Supervised by David Millard, University of Southampton
 
 ## Author
